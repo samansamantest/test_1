@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //this is a change to be pushed to branch features
+        //this is 2nd change to be pushed to branch features
     }
 }
